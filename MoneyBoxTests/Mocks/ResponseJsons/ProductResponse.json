@@ -1,0 +1,275 @@
+{
+  "MoneyboxEndOfTaxYear": "2024-04-03T12:00:00.000",
+  "TotalPlanValue": 12780.98,
+  "TotalEarnings": 552.94,
+  "TotalContributionsNet": 12228.04,
+  "TotalMoneybox": 7444.0,
+  "TotalCollection": 7444.0,
+  "CollectionDayMessage": "No money was collected today",
+  "TotalEarningsAsPercentage": 4.52,
+  "ProductResponses": [
+    {
+      "Id": 63429,
+      "AssetBoxGlobalId": "ed2d7008-673d-442e-b6b3-2269144ad861",
+      "PlanValue": 9597.34,
+      "TotalCollection": 1940.0,
+      "FixedAllocationsTotal": 0.0,
+      "Moneybox": 1940.0,
+      "SubscriptionAmount": 40.0,
+      "TotalWeeklySubscriptionAmount": 40.0,
+      "TotalFees": 57.83,
+      "IsSelected": false,
+      "IsFavourite": true,
+      "CollectionDayMessage": "No money was collected today",
+      "WrapperId": "b90a0c1f-87b0-4877-b39e-fe8516b044b9",
+      "IsCashBox": false,
+      "PendingInstantBankTransferAmount": 0.0,
+      "AssetBox": {
+        "Title": "Investments"
+      },
+      "Product": {
+        "Id": 1,
+        "GlobalId": "d140d99d-b759-46cb-84af-9fbd98dc517f",
+        "Name": "ISA",
+        "SvgImageUrl": "https://assets.moneyboxapp.com/images/app-assets/IsaIconRebrand.svg",
+        "PngImageUrl": "https://assets.moneyboxapp.com/images/app-assets/IsaIconRebrand.png",
+        "CategoryType": "Investment",
+        "Type": "Isa",
+        "FriendlyName": "Stocks & Shares ISA",
+        "CanWithdraw": true,
+        "CanProportionatelySelldown": false,
+        "ProductHexCode": "#c5d561",
+        "AnnualLimit": 20000.0,
+        "DepositLimit": 0.0,
+        "BonusMultiplier": 0.0,
+        "MinimumWeeklyDeposit": 2.0,
+        "MaximumWeeklyDeposit": 400.0,
+        "Documents": {
+          "KeyFeaturesUrl": "https://api-test02.moneyboxapp.com/docs/KeyFeaturesDocumentAll"
+        },
+        "State": "None",
+        "WrapperDefinitionGlobalId": "ecdf7923-4f30-4e9d-84bc-1e71d3a53367"
+      },
+      "InvestorAccount": {
+        "ContributionsNet": 9692.0,
+        "EarningsNet": -94.66,
+        "EarningsAsPercentage": -0.98
+      },
+      "Personalisation": {
+        "QuickAddDeposit": {
+          "Amount": 100.0
+        },
+        "HideAccounts": {
+          "Enabled": false,
+          "IsHidden": false,
+          "Sequence": 1
+        }
+      },
+      "Contributions": {
+        "Status": "Enabled"
+      },
+      "MoneyboxCircle": {
+        "State": "None"
+      },
+      "IsSwitchVisible": false,
+      "State": "None",
+      "DateCreated": "2022-05-30T10:31:47.947"
+    },
+    {
+      "Id": 63431,
+      "AssetBoxGlobalId": "c52e81ee-164e-4c7f-b7b8-b9ef70bab33e",
+      "PlanValue": 3183.64,
+      "TotalCollection": 590.0,
+      "FixedAllocationsTotal": 0.0,
+      "Moneybox": 590.0,
+      "SubscriptionAmount": 12.0,
+      "TotalWeeklySubscriptionAmount": 12.0,
+      "TotalFees": 18.51,
+      "IsSelected": true,
+      "IsFavourite": false,
+      "CollectionDayMessage": "No money was collected today",
+      "WrapperId": "ca741386-698a-4dde-af35-aa1dbae30384",
+      "IsCashBox": false,
+      "PendingInstantBankTransferAmount": 0.0,
+      "AssetBox": {
+        "Title": "Investments"
+      },
+      "Product": {
+        "Lisa": {
+          "MaximumBonus": 1000.0
+        },
+        "Id": 4,
+        "GlobalId": "2d19a88b-5241-40f9-a48b-e057121e3e1f",
+        "Name": "LISA",
+        "SvgImageUrl": "https://assets.moneyboxapp.com/images/app-assets/LisaIconRebrand.svg",
+        "PngImageUrl": "https://assets.moneyboxapp.com/images/app-assets/LisaIconRebrand.png",
+        "CategoryType": "Investment",
+        "Type": "Lisa",
+        "FriendlyName": "Lifetime ISA",
+        "CanWithdraw": false,
+        "CanProportionatelySelldown": false,
+        "ProductHexCode": "#49bfbd",
+        "AnnualLimit": 4000.0,
+        "DepositLimit": 0.0,
+        "BonusMultiplier": 0.25,
+        "MinimumWeeklyDeposit": 2.0,
+        "MaximumWeeklyDeposit": 400.0,
+        "Documents": {
+          "KeyFeaturesUrl": "https://api-test02.moneyboxapp.com/docs/KeyFeaturesDocumentAll"
+        },
+        "State": "None",
+        "WrapperDefinitionGlobalId": "7b98e517-7a1f-4526-8266-b8ce0b9f8199"
+      },
+      "InvestorAccount": {
+        "ContributionsNet": 2536.04,
+        "EarningsNet": 647.6,
+        "EarningsAsPercentage": 25.54
+      },
+      "Personalisation": {
+        "QuickAddDeposit": {
+          "Amount": 100.0
+        },
+        "HideAccounts": {
+          "Enabled": false,
+          "IsHidden": false,
+          "Sequence": 2
+        }
+      },
+      "Contributions": {
+        "Status": "Enabled"
+      },
+      "MoneyboxCircle": {
+        "State": "None"
+      },
+      "IsSwitchVisible": false,
+      "State": "None",
+      "DateCreated": "2022-05-30T10:32:26.417"
+    },
+    {
+      "Id": 63430,
+      "AssetBoxGlobalId": "333fbc0d-d3d9-4169-a3ae-0cb189364996",
+      "PlanValue": 0.0,
+      "TotalCollection": 4914.0,
+      "FixedAllocationsTotal": 0.0,
+      "Moneybox": 4914.0,
+      "SubscriptionAmount": 0.0,
+      "TotalWeeklySubscriptionAmount": 0.0,
+      "TotalFees": 0.0,
+      "IsSelected": false,
+      "IsFavourite": false,
+      "CollectionDayMessage": "No money was collected today",
+      "WrapperId": "b90a0c1f-87b0-4877-b39e-fe8516b044b9",
+      "IsCashBox": true,
+      "PendingInstantBankTransferAmount": 0.0,
+      "AssetBox": {
+        "Title": "Cash"
+      },
+      "Product": {
+        "Id": 10,
+        "GlobalId": "f539177c-2a56-4978-a20a-6c61142e93b6",
+        "Name": "Isa Cash Box",
+        "SvgImageUrl": "https://assets.moneyboxapp.com/images/app-assets/CashBoxIconRebrand.svg",
+        "PngImageUrl": "https://assets.moneyboxapp.com/images/app-assets/CashBoxIconRebrand.png",
+        "CategoryType": "Cash",
+        "Type": "Isa",
+        "FriendlyName": "Stocks & Shares ISA",
+        "CanWithdraw": true,
+        "CanProportionatelySelldown": false,
+        "AnnualLimit": 20000.0,
+        "DepositLimit": 0.0,
+        "BonusMultiplier": 0.0,
+        "MinimumWeeklyDeposit": 2.0,
+        "MaximumWeeklyDeposit": 400.0,
+        "InterestRate": "3.25% AER",
+        "InterestRateAmount": 0.0325,
+        "Documents": {
+          "KeyFeaturesUrl": "https://api-test02.moneyboxapp.com/docs/KeyFeaturesDocumentAll"
+        },
+        "State": "None",
+        "WrapperDefinitionGlobalId": "ecdf7923-4f30-4e9d-84bc-1e71d3a53367",
+        "Fund": {
+          "FundId": 41,
+          "Name": "Moneybox",
+          "IsFundDMB": true
+        }
+      },
+      "InvestorAccount": {
+        "TodaysInterest": 0.0,
+        "ContributionsNet": 0.0,
+        "EarningsNet": 0.0,
+        "EarningsAsPercentage": 0.0
+      },
+      "Personalisation": {
+        "QuickAddDeposit": {
+          "Amount": 100.0
+        },
+        "HideAccounts": {
+          "Enabled": false,
+          "IsHidden": false,
+          "Sequence": 3
+        }
+      },
+      "Contributions": {
+        "Status": "Enabled"
+      },
+      "MoneyboxCircle": {
+        "State": "None"
+      },
+      "IsSwitchVisible": false,
+      "State": "None",
+      "DateCreated": "2022-05-30T10:31:47.947"
+    }
+  ],
+  "Accounts": [
+    {
+      "Type": "Isa",
+      "Name": "Stocks & Shares ISA",
+      "DeepLinkIdentifier": "Isa",
+      "Wrapper": {
+        "Id": "b90a0c1f-87b0-4877-b39e-fe8516b044b9",
+        "DefinitionGlobalId": "ecdf7923-4f30-4e9d-84bc-1e71d3a53367",
+        "TotalValue": 9597.34,
+        "TotalContributions": 9692.0,
+        "EarningsNet": -94.66,
+        "EarningsAsPercentage": -0.98,
+        "MaximumWithdrawal": 9585.18,
+        "Returns": {
+          "Simple": -0.98,
+          "Lifetime": -1.16,
+          "Annualised": -0.8018
+        }
+      },
+      "Milestone": {
+        "InitialStage": "investments_initial",
+        "EndStage": "investments_initial",
+        "EndStageId": 2
+      },
+      "HasCollections": true
+    },
+    {
+      "Type": "Lisa",
+      "Name": "Lifetime ISA",
+      "DeepLinkIdentifier": "Lisa",
+      "Wrapper": {
+        "Id": "ca741386-698a-4dde-af35-aa1dbae30384",
+        "DefinitionGlobalId": "7b98e517-7a1f-4526-8266-b8ce0b9f8199",
+        "TotalValue": 3183.64,
+        "TotalContributions": 2566.0,
+        "EarningsNet": 647.6,
+        "EarningsAsPercentage": 25.54,
+        "MaximumWithdrawal": 0.0,
+        "Returns": {
+          "Simple": 25.54,
+          "Lifetime": 29.67,
+          "Annualised": 19.6347
+        }
+      },
+      "Milestone": {
+        "InitialStage": "lisa_second_house",
+        "EndStage": "lisa_second_house",
+        "EndStageId": 5
+      },
+      "HasCollections": true
+    }
+  ]
+}
